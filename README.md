@@ -8,6 +8,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=rosacry&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
 
+[![Resume](https://img.shields.io/badge/📄_Resume-View_My_Resume-58a6ff?style=for-the-badge)](YOUR_RESUME_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-rosales-cs/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:10rosachri@gmail.com)
+
 </div>
 
 ---
@@ -88,12 +92,6 @@
 
 </div>
 
-<div align="center">
-  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosacry&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophy" /></a>
-
-</div>
-
 ---
 
 ## 🏆 Featured Projects
@@ -137,9 +135,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-*"building what i need"*
-
-</div>
