@@ -1,6 +1,4 @@
 <div align="center">
-  
-# Welcome to my profile! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chris+Rosales;AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+BeatSight+%F0%9F%A5%81)](https://git.io/typing-svg)
 
