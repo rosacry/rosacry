@@ -133,5 +133,3 @@
 📫 Reach me at **10rosachri@gmail.com**
 
 </div>
-
----
