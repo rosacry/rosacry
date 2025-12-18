@@ -21,7 +21,7 @@
 - 🥁 Building **[BeatSight](https://beatsight.io)** — AI-powered drum transcription app. Drop any song, get a playable beatmap, practice with visual lookahead like Guitar Hero... for real drums
 - 🔧 Contributing features & fixes to **[OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator)** — A multi-model framework generating osu! beatmaps
 - 🏴‍☠️ Bounty hunting for **[comma.ai/openpilot](https://github.com/commaai/openpilot)** and **[tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)**
-- 🎓 Senior at **Stony Brook University** majoring in **Computer Science**
+- 🎓 **Computer Science** major at **Stony Brook University**
 - 🌱 Currently diving deep into **AI/ML, Computer Vision, and Audio Processing**
 - ⚡ Fun fact: I build tools that I actually need and use daily
 
