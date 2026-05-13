@@ -8,6 +8,7 @@
 
 [![views](https://komarev.com/ghpvc/?username=rosacry&color=58A6FF&style=flat-square&label=profile+views)](https://github.com/rosacry)&nbsp;
 [![live](https://img.shields.io/badge/%F0%9F%A5%81_beatsight.io-live_in_production-00d26a?style=flat-square)](https://beatsight.io)&nbsp;
+[![resume](https://img.shields.io/badge/📄_Resume-PDF-58A6FF?style=flat-square)](https://github.com/rosacry/rosacry/raw/main/RESUME_CHRIS_ROSALES.pdf)&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-chris--rosales--cs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-rosales-cs)&nbsp;
 [![email](https://img.shields.io/badge/email-10rosachri%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:10rosachri@gmail.com)
 
